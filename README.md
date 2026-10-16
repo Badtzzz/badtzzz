@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&center=true&vCenter=true&width=600&lines=Y%C5%8Dkoso" alt="Yōkoso typing animation" />
+</div>
+
 
 <!--
 **Badtzzz/badtzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
