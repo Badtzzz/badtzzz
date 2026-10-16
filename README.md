@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&center=true&vCenter=true&width=600&lines=Y%C5%8Dkoso" alt="Yōkoso typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&center=true&vCenter=true&width=800&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81%F0%9F%8C%B8+%E2%80%94+Welcome!" alt="ようこそ！🌸 — Welcome!" />
 </div>
 
 
