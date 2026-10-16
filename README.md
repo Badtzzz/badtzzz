@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&center=true&vCenter=true&width=600&lines=Y%C5%8Dkoso" alt="Yōkoso typing animation" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Y%C5%8Dkoso+%28Welcome!!%29)](https://git.io/typing-svg)
 
 
 <!--
