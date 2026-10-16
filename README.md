@@ -5,17 +5,40 @@
 
 
 
-<!--
-**Badtzzz/badtzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- ABOUT ME -->
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm Ali, an IT Support professional from the Philippines working toward a career in Systems Administration, Cloud, and Identity & Access Management (IAM).
+
+- 💻 Currently working in IT Support
+- 🖥️ Building hands-on Windows Server and Active Directory labs
+- ⚙️ Learning PowerShell, Linux, and system administration
+- ☁️ Exploring Microsoft Azure and cloud technologies
+- 🎯 Focused on continuous learning through practical projects
+
+<!-- WHAT I'M WORKING ON -->
+## 🛠 What I'm Working On
+
+- 🏢 Practicing Active Directory, users, groups, and Group Policy
+- 🔧 Automating IT administration tasks with PowerShell
+- 🐧 Learning Linux commands, permissions, and system management
+- ☁️ Studying Microsoft Azure and working toward certifications
+- 📂 Documenting my labs and projects on GitHub
+
+<!-- LANGUAGES -->
+## 💻 Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="45" alt="PowerShell" />
+</p>
+
+<!-- OPERATING SYSTEMS -->
+## 🖥️ Operating Systems
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45" alt="Windows" />
+</p>
