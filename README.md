@@ -11,18 +11,12 @@
 
 Hi! I'm Ali, an IT Support professional from the Philippines working toward a career in Systems Administration, Cloud, and Identity & Access Management (IAM).
 
-- 💻 Currently working in IT Support
-- 🖥️ Building hands-on Windows Server and Active Directory labs
-- ⚙️ Learning PowerShell, Linux, and system administration
-- ☁️ Exploring Microsoft Azure and cloud technologies
-- 🎯 Focused on continuous learning through practical projects
 
 <!-- WHAT I'M WORKING ON -->
 ## 🛠 What I'm Working On
 
 - 🏢 Practicing Active Directory, users, groups, and Group Policy
 - 🔧 Automating IT administration tasks with PowerShell
-- 🐧 Learning Linux commands, permissions, and system management
 - ☁️ Studying Microsoft Azure and working toward certifications
 - 📂 Documenting my labs and projects on GitHub
 
